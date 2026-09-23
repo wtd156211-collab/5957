@@ -1,0 +1,10 @@
+server:
+<<<<<<< ours
+||||||| base
+  timeout: 30
+=======
+  timeout: 99
+>>>>>>> theirs
+  retries: 3
+# conflicts
+conflict,2,1

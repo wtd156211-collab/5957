@@ -1,0 +1,11 @@
+server:
+  timeout: 30
+<<<<<<< ours
+  keepalive: on
+||||||| base
+=======
+  keepalive: off
+>>>>>>> theirs
+  retries: 3
+# conflicts
+conflict,3,0

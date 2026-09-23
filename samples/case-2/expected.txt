@@ -1,0 +1,5 @@
+server:
+  host: 10.0.0.1
+  port: 9090
+  timeout: 45
+  retries: 3

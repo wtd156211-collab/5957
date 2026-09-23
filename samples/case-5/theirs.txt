@@ -1,0 +1,3 @@
+server:
+  timeout: 90
+  retries: 3

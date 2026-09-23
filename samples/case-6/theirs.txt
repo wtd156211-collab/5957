@@ -1,0 +1,4 @@
+server:
+  timeout: 30
+  keepalive: off
+  retries: 3
